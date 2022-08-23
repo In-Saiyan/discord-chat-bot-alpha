@@ -66,5 +66,10 @@ Mac/Linux
   python3 main.py
   ```
   
-  
+ It should look like this in VSCODE and like the... uh Terminal down below in the... Uhm yea, Terminal of course.
+ ![image](https://user-images.githubusercontent.com/91674437/186219958-cd4c515e-3187-4fd2-bba5-c21e5e16918c.png)
+
+ 
+ <b>NOTE: The commented line are the ones that will enable the logging, if you want to log the messages be sure to use it but there's a problem in using them in Windows, it works perfectly on Mac and Linux though.</b>
+ 
  If you want to contribute in making this something good you can <a href="https://discord.gg/YM74PGgYPq">Join us on Discord.</a>.
